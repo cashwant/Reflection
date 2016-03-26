@@ -1,0 +1,47 @@
+proj.android-studio/
+proj.ios_mac/
+proj.linux/
+proj.win8.1-universal/
+proj.win10/
+proj.win32/
+
+
+
+# proj.android
+bin/
+proj.android/assets/
+proj.android/bin/
+proj.android/gen/
+proj.android/libs/
+proj.android/local.properties
+proj.android/obj/
+cocos2d/cocos/platform/android/java/bin/
+cocos2d/cocos/platform/android/java/gen/
+cocos2d/cocos/platform/android/java/local.properties
+cocos2d/cocos/platform/android/java/res/
+.metadata/
+.recommenders/
+
+# proj.win32
+cocos2d/cocos/2d/Debug.*/
+cocos2d/cocos/editor-support/spine/proj.win32/Debug.*/
+cocos2d/external/Box2D/proj.win32/Debug.*/
+cocos2d/external/bullet/proj.win32/Debug.*/
+cocos2d/external/recast/proj.win32/Debug.*/
+cocos2d/cocos/2d/Release.*/
+cocos2d/cocos/editor-support/spine/proj.win32/Release.*/
+cocos2d/external/Box2D/proj.win32/Release.*/
+cocos2d/external/bullet/proj.win32/Release.*/
+cocos2d/external/recast/proj.win32/Release.*/
+
+# proj.android-studio
+*.iml
+proj.android-studio/app/assets/
+proj.android-studio/app/obj/
+proj.android-studio/app/libs/armeabi/
+#proj.android-studio/app/gradle.properties
+proj.android-studio/app/local.properties
+proj.android-studio/*/build/
+cocos2d/cocos/platform/android/libcocos2dx/build/
+
+
